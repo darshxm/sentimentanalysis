@@ -7,6 +7,6 @@ authors:
   given-names: "Archit"
 title: "sentimentanalysis"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
+doi: https://github.com/darshxm/sentimentanalysis
 date-released: 2023-04-06
 url: "https://github.com/darshxm/sentimentanalysis"
